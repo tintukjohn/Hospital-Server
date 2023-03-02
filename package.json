@@ -1,0 +1,17 @@
+{
+  "name": "hospital-server",
+  "version": "1.0.0",
+  "description": "Assignment 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js --exec babel-node -e js"
+  },
+  "author": "Tintu K John",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.20"
+  }
+}

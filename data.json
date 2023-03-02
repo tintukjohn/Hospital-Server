@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "hospital": "Physicians Total Care, Inc.",
+        "patients": 703,
+        "location": "Old Gate"
+    },
+    {
+        "id": 2,
+        "hospital": "Rite Aid",
+        "patients": 685,
+        "location": "Iowa"
+    },
+    {
+        "id": 5,
+        "hospital": "BJWC",
+        "patients": 932,
+        "location": "Rockefeller"
+    },
+    {
+        "id": 4,
+        "hospital": "mch",
+        "patients": 400,
+        "location": "tvm"
+    },
+    {
+        "id": 3,
+        "hospital": "mch",
+        "patients": 200,
+        "location": "tvm"
+    }
+]
